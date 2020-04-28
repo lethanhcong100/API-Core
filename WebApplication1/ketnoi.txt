@@ -1,0 +1,1 @@
+Data Source=ERP-CONGLT\SQLEXPRESS;Initial Catalog=QuanLySanPham;Integrated Security=True
